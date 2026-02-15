@@ -1,4 +1,4 @@
-# ML Assignment 2
+# 2025AA05640_ml_assignment_2
 
 ## Problem Statement
 Classification using multiple machine learning models and deployment using Streamlit.
